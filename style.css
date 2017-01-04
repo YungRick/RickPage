@@ -5,3 +5,9 @@
  height: 700px;
  width: 100%;
 }
+
+#headertext {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
