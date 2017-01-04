@@ -16,7 +16,7 @@
 
 h1 {
   color: white;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 100px;
   font-weight: 600;
   line-height: 60px;
@@ -24,8 +24,8 @@ h1 {
 }
 
 h2 {
-  color: #FFF;
-  font-family: 'Open Sans', sans-serif;
+  color: #bfbfbf;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   font-size: 36px;
   font-weight: 300;
