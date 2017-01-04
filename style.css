@@ -14,7 +14,7 @@
   width: 60%;
 }
 
-#nametitle {
+h1 {
   color: white;
   font-family: 'Quicksand', sans-serif;
   font-size: 70px;
@@ -23,7 +23,7 @@
   margin: 0;
 }
 
-#ltitle{
+h2{
   color: #FFF;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
