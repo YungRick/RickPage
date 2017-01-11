@@ -1,0 +1,19 @@
+h1 {
+  color: #332b3c;
+  font-family: 'Oswald', sans-serif;
+  font-size: 160px;
+  font-weight: 600;
+  line-height: 60px;
+  margin: 0;
+}
+
+p {
+  color: #332b3c;
+  width: 40%;
+  font-family: 'Open-Sans', sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  text-align: center;
+  
+	
+}
