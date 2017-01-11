@@ -7,6 +7,10 @@
  padding: 10px
 }
 
+.topelement {
+	margin-top: 50px;
+}
+
 .back {
 	
 	font-size: 50px;
@@ -15,11 +19,12 @@
 	margin: 10px;
 	background-color: grey;
 	width: 10%;
-	opacity: 0.5;
+	position:absolute;
 	
 }
 body {
 	margin: 0px;
+	
 }
 
 #headertext {
