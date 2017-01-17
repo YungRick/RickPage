@@ -5,6 +5,7 @@
  height: 280px;
  width: 100%;
  padding: 10px
+ 
 }
 
 .topelement {
@@ -73,9 +74,10 @@ p {
 	
 	border-style: solid;
 	border-width: 4px;
+	border-radius: 20px;
 	width: 40%;
 	padding: 30px 5px;
-    margin: auto;
+  margin: auto;
 	margin-top: 10px
 	
 	
@@ -113,9 +115,10 @@ a:link, a:visited {
 .box {
 	border-style: solid;
 	border-width: 4px;
+	border-radius: 20px;
 	width: 40%;
 	padding: 1px;
-    margin: auto;
+  margin: auto;
 	margin-top: 10px
 	
 }
